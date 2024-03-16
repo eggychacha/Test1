@@ -1,0 +1,20 @@
+mark{
+    background-color: #ffe9e9;
+  }
+  i{
+    font-size: 45px;
+    color: lightpink;
+  }
+  #li{
+    color: darkgray;
+  }
+  #n1, #n2, span{
+    color: #93939B;
+  }
+  a{
+    color: lightpink;
+    text-decoration: none;
+  }
+  img{
+    max-width: 50%;
+  }
